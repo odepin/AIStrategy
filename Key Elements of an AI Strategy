@@ -1,6 +1,6 @@
 1. AI Vision
 - Define what AI will enable in your organization: goals, competitive advantage, business model impact. 
-- Make sure vision aligns with overall business strategy and strategy objectives. 
+- Make sure the vision aligns with overall business strategy and strategy objectives. 
 
 2. AI Value (Value Realization / Use-Case Prioritization)
 - Identify and prioritize use cases that deliver measurable business outcomes. 
@@ -8,14 +8,14 @@
 - Track success metrics (business KPIs over financial metrics) early. 
 
 3. AI Risks & Governance
-- Identify risks: regulatory, ethical, security, bias, data privacy etc. 
+- Identify risks: regulatory, ethical, security, bias, data privacy, etc. 
 - Establish governance structures, policies, principles. 
-- Apply frameworks like TRiSM (Trust, Risk, Security Management). 
+- Define/Apply frameworks. 
 
 4. Organization, People & Culture
-Assess talent gaps; upskill or hire required roles. 
-Build culture that supports experimentation, ethics, continuous learning. 
-Change management to align people with strategy. 
+- Assess talent gaps, upskill or hire required roles. 
+- Build the culture that supports experimentation, ethics, and continuous learning. 
+- Apply change management to align people with strategy. 
 
 5. AI Engineering & Data Foundation
 - Determine build vs buy criteria. 
@@ -24,5 +24,5 @@ Change management to align people with strategy.
 
 6. Roadmap & Scaling
 - Develop roadmap across workstreams: select, sequence activities from initial to advanced. 
-- Scale from pilots to production; iterate. 
-- Measure & monitor business, tech, behavioral outcomes.
+- Scale from pilots to production, iterate. 
+- Measure and monitor business, tech, behavioral outcomes.
