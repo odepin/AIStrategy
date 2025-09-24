@@ -1,0 +1,22 @@
+Key Challenges
+■Many organizations spend a lot of time, money and political equity trying to define an artificial
+intelligence (AI) strategy instead of focusing on business problems.
+■When it comes to AI, the first question many CIOs, and even line of business (LOB) leaders, ask
+is: “Which platform should I use?” But starting with the technology is like “putting the cart
+before the horse.”
+■When implementing AI techniques, AI skills and a proper set of data (linked to practical use
+cases) should be front and center, but many organizations only make these second-order
+considerations.
+■Organizational issues are important for the sustainability of AI efforts, but they are often
+promoted at the expense of a rigorous business use case selection process.
+
+Recommendations
+CIOs looking to apply AI in the enterprise should:
+■Invest only in the most impactful, measurable business use cases that are achievable in a
+limited time frame.
+■Hire the right analytics, IT and business skills necessary for those business use cases.■Assign data stewards to select, secure and prepare the appropriate data linked to the selected
+use cases.
+■Choose the most suitable AI techniques for the problem to be solved, along with the right tools
+aligned with the selected skills.
+■Build an AI expertise organizational structure designed for knowledge transfer and problem
+solving
