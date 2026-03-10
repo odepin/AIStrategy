@@ -1,0 +1,43 @@
+Origin,Category,Problem,Description
+Secondary research,Cost and ROI Challenges,Diminishing returns,Incremental model improvements not justifying added complexity or cost.
+Secondary research,Cost and ROI Challenges,Unclear ROI timelines,Benefits materializing later than expected.
+Secondary research,Cost and ROI Challenges,Underestimated total cost of ownership,"Ongoing costs for data, infrastructure, monitoring, and talent."
+Secondary research,Data-Related Challenges,Data bias,Historical or sampling bias leading to unfair or inaccurate predictions.
+Secondary research,Data-Related Challenges,Data leakage,Training data inadvertently containing information unavailable at inference time.
+Secondary research,Data-Related Challenges,Data silos,Fragmented data sources across teams or systems.
+Secondary research,Data-Related Challenges,Insufficient data quantity,Not enough samples to train robust models.
+Secondary research,Data-Related Challenges,Lack of labeled data,"High cost or difficulty of annotation, especially for supervised learning."
+Secondary research,Data-Related Challenges,Poor data quality,"Missing values, noise, inconsistencies, duplicates, or incorrect labels."
+Secondary research,Deployment and Integration Challenges,Integration complexity,Difficulty embedding AI models into existing applications or workflows.
+Secondary research,Deployment and Integration Challenges,Latency and throughput issues,Inference times exceeding system requirements.
+Secondary research,Deployment and Integration Challenges,Productionization gaps,Models performing well in notebooks but failing in production.
+Secondary research,Deployment and Integration Challenges,Scalability limitations,Models not designed to handle production-scale data or traffic.
+Secondary research,Evaluation and Success Measurement,Inappropriate evaluation metrics,Metrics not aligned with real-world impact.
+Secondary research,Evaluation and Success Measurement,Limited A/B testing capability,Inability to measure causal impact in live systems.
+Secondary research,Evaluation and Success Measurement,Offline–online mismatch,Strong validation results that do not translate to production performance.
+Secondary research,Evaluation and Success Measurement,Short-term optimization,Ignoring long-term effects or feedback loops.
+Secondary research,"Governance, Risk, and Compliance",Ethical concerns,"Bias, discrimination, or unintended societal impacts."
+Secondary research,"Governance, Risk, and Compliance",Insufficient auditability,Inability to explain or defend model decisions.
+Secondary research,"Governance, Risk, and Compliance",Regulatory non-compliance,Violations of data protection or AI governance regulations.
+Secondary research,"Governance, Risk, and Compliance",Security vulnerabilities,"Model theft, data poisoning, or adversarial attacks."
+Secondary research,Infrastructure and Tooling Constraints,Environment inconsistencies,"Differences between development, testing, and production environments."
+Secondary research,Infrastructure and Tooling Constraints,High infrastructure costs,Unexpected cloud expenses for training or inference.
+Secondary research,Infrastructure and Tooling Constraints,Inadequate compute resources,Insufficient CPU/GPU capacity or memory.
+Secondary research,Infrastructure and Tooling Constraints,Toolchain complexity,Fragmented MLOps stack with poor integration.
+Secondary research,Model Development Issues,Hyperparameter sensitivity,Excessive tuning effort with marginal performance gains.
+Secondary research,Model Development Issues,Inappropriate model selection,Using overly complex models when simpler approaches suffice (or vice versa).
+Secondary research,Model Development Issues,Limited explainability,Black-box models that are difficult to interpret or justify.
+Secondary research,Model Development Issues,Overfitting and underfitting,Poor generalization to unseen data.
+Secondary research,Model Development Issues,Reproducibility issues,Inconsistent results due to unstable pipelines or randomization.
+Secondary research,"Monitoring, Maintenance, and Lifecycle Management",Lack of monitoring,"No visibility into model accuracy, bias, or failures post-deployment."
+Secondary research,"Monitoring, Maintenance, and Lifecycle Management",Model drift,Changes in data distribution or user behavior degrading performance over time.
+Secondary research,"Monitoring, Maintenance, and Lifecycle Management",Retraining complexity,Manual or brittle retraining pipelines.
+Secondary research,"Monitoring, Maintenance, and Lifecycle Management",Version management issues,"Difficulty tracking model, data, and feature versions."
+Secondary research,Organizational and Human Factors,Change resistance,User distrust or reluctance to adopt AI-driven decisions.
+Secondary research,Organizational and Human Factors,Cross-functional friction,"Poor collaboration between business, data, and engineering teams."
+Secondary research,Organizational and Human Factors,Skill gaps,"Shortage of experienced data scientists, ML engineers, or domain experts."
+Secondary research,Organizational and Human Factors,Unclear ownership,No defined accountability for model performance or failures.
+Secondary research,Problem Definition and Business Alignment,Misalignment with business value,Models optimized for technical metrics rather than business outcomes.
+Secondary research,Problem Definition and Business Alignment,Over-automation expectations,Assuming AI can fully replace human judgment in complex or ambiguous domains.
+Secondary research,Problem Definition and Business Alignment,Poorly defined use cases,Vague objectives or attempting to “use AI” without a clear business problem.
+Secondary research,Problem Definition and Business Alignment,Scope creep,Expanding requirements after model development begins.
